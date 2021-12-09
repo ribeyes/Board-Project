@@ -32,6 +32,7 @@ Java와 JSP의 활용방법을 익히고 싶어서 제작하게 되었습니다.
     + JQuery
     + MySQL
     + Javascript  
+    + Apache Tomcat 8.5
     <br>
     
 ## 소개  
